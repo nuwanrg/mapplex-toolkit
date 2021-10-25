@@ -1,5 +1,5 @@
 {
-  "name": "@mapplex2/uikit",
+  "name": "@mapplex/uikit",
   "version": "0.55.8",
   "description": "Set of UI components for pancake projects",
   "main": "dist/index.cjs.js",
@@ -53,5 +53,5 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "8a699cf686bb6354fee0a4b990948ee101113fb5"
+  "gitHead": "577325640e46658c1103ddd236f2571658e76396"
 }

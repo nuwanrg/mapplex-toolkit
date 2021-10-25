@@ -1,5 +1,5 @@
 {
-  "name": "@mapplex/uikit",
+  "name": "@mapplex/uikit2",
   "version": "0.55.9",
   "description": "Set of UI components for pancake projects",
   "main": "dist/index.cjs.js",
